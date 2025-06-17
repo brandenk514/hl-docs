@@ -1,4 +1,10 @@
-# Installing Proxmox VE
+---
+layout: post
+title: "Installing Proxmox"
+date: 2025-06-11
+categories: virtualization
+tags: proxmox virtualization
+---
 
 This guide will walk you through installing Proxmox Virtual Environment (VE) on a dedicated server.
 
