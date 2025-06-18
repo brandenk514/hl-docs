@@ -6,7 +6,11 @@ categories: virtualization
 tags: proxmox virtualization
 ---
 
-This guide will walk you through installing Proxmox Virtual Environment (VE) on a dedicated server.
+## Why Proxmox?
+
+I chose Proxmox for a variety of reasons, but mostly because Broadcom decided to buy VMware and gut the product I loved. I was a full supporter of VMUG (VMware User Group), and when Broadcom brought VMware, I could see the writing on the wall. It wasn't long after I migrated off of ESXi that VMUG became untenable for the average person to use.
+
+That being said, I have been presently surprised by Proxmox’s robustness and flexibility. It is a rock-solid KVM platform that allows you to run and maintain highly available virtual machines and containers. Its basic backup integrations and dedicated backup software (Proxmox Backup Server) have made it a go-to for myself and many others. That only scratches the surface so with that let’s get it installed!
 
 ## Prerequisites
 
