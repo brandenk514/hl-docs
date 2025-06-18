@@ -6,7 +6,7 @@ order: 5
 
 Experienced Digital Infrastructure and Site Reliability Engineer with over 6 years of expertise in managing large-scale infrastructure, optimizing server clusters, and implementing automation for deployment and configuration. Adept at troubleshooting, enhancing system performance, and maintaining high availability in production environments. Strong communicator, team collaborator, and problem solver with a passion for supporting mission-driven projects.
 
-[LinkedIn](www.linkedin.com/in/branden-kaestner-02a17799)
+[LinkedIn](https://www.linkedin.com/in/branden-kaestner-02a17799)
 
 ## Technologies
 
