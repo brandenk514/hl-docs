@@ -4,6 +4,8 @@ title: "Installing Proxmox"
 date: 2025-06-11
 categories: virtualization
 tags: proxmox virtualization
+image:
+   path: /assets/headers/proxmox-logo-stacked-color.svg
 ---
 
 ## Why Proxmox?
