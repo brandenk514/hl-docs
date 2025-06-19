@@ -92,7 +92,7 @@
           <mxGeometry x="471" y="708" width="79.5" height="79.5" as="geometry" />
         </mxCell>
         <mxCell id="PlRji3XvTjhjcelXqh6b-30" value="" style="shape=mxgraph.cisco.computers_and_peripherals.supercomputer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="810" y="720.5" width="53" height="67" as="geometry" />
+          <mxGeometry x="803.5" y="714" width="53" height="67" as="geometry" />
         </mxCell>
         <mxCell id="PlRji3XvTjhjcelXqh6b-31" value="Trunk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="496" y="330" width="60" height="30" as="geometry" />
