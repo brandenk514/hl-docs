@@ -74,7 +74,7 @@
           <mxGeometry x="750" y="580" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PlRji3XvTjhjcelXqh6b-23" value="THE INTERNET" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="505.5" y="78" width="90" height="30" as="geometry" />
+          <mxGeometry x="505" y="78" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="PlRji3XvTjhjcelXqh6b-25" value="UDM-SE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="620" y="246.5" width="60" height="30" as="geometry" />
@@ -93,6 +93,9 @@
         </mxCell>
         <mxCell id="PlRji3XvTjhjcelXqh6b-30" value="" style="shape=mxgraph.cisco.computers_and_peripherals.supercomputer;sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="810" y="720.5" width="53" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="PlRji3XvTjhjcelXqh6b-31" value="Trunk" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="496" y="330" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
