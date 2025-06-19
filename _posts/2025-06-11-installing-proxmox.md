@@ -2,7 +2,7 @@
 layout: post
 title: "Installing Proxmox"
 date: 2025-06-11
-categories: virtualization
+categories: virtualization proxmox
 tags: proxmox virtualization
 image:
    path: /assets/headers/proxmox-logo-stacked-color.svg
@@ -11,6 +11,8 @@ image:
 ## Why Proxmox?
 
 I chose Proxmox for a variety of reasons, but mostly because Broadcom decided to buy VMware and gut ESXi, the product I loved. I was a full supporter of VMUG (VMware User Group), and when Broadcom brought VMware, I could see the writing on the wall. It wasn't long after I migrated off of ESXi that VMUG became untenable for the average person to use.
+
+At some point, I may switch to Nutanix CE, XCG-NG, or Red Hat Openshift, but none of those have shown to have the same ease of use that Proxmox did. However, the great hypervisor war is far from over so I expect this to change with time. 
 
 That being said, I have been presently surprised by Proxmox’s robustness and flexibility. It is a rock-solid KVM platform that allows you to run and maintain highly available virtual machines and containers. Its basic backup integrations and dedicated backup software (Proxmox Backup Server) have made it a go-to for myself and many others. That only scratches the surface so with that let’s get it installed!
 
