@@ -16,7 +16,7 @@ timezone: America/Los_Angeles
 
 title: Branden Kaestner # the main title
 
-tagline: My Personal Website & Homelab Documentation Hub! # it will display as the subtitle
+tagline: Digital Infrastructure Engineer | Nature Euthanist & Hiker # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   For all homelab architecture, configuration, and process document and technical writing.
