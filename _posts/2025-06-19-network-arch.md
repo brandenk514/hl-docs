@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Network Architecture - Planning before executing!"
-date: 2025-06-11
+date: 2025-06-19
 categories: architecture 
 tags: networking ubitquiti
 image:
@@ -19,7 +19,7 @@ A Router on a Stick (ROAS) is a network configuration where a single physical ro
 * The router’s interface is divided into logical sub-interfaces, each tagged for a specific VLAN.
 * The router routes traffic between VLANs, allowing devices in different VLANs to communicate.
 
-## Hardware
+## 🖥️ Hardware
 
 So let's talk hardware real quick! I am a compute engineer by trade, and I like my networking to be drop-dead simple. Enter Unifi. I’m not going to go on and on about the benefits of Unifi since there are plenty of others who are more qualified to do so. It's simple, reliable, and doesn't have recurring subscriptions or licensing fees — that’s why I use it. Use what you like and what works best for you. I find that a Unifi stack is equal to a pfSense and MikroTik stack, so go with whichever you like more.
 
