@@ -106,7 +106,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Bl_BZ6ZDCui6poIAxsSx-22" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="292" y="219" width="266" height="663" as="geometry" />
+          <mxGeometry x="292" y="219" width="610" height="663" as="geometry" />
         </mxCell>
         <mxCell id="Bl_BZ6ZDCui6poIAxsSx-1" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rackGeneral.rackCabinet3;fillColor2=#f4f4f4;container=0;collapsible=0;childLayout=rack;allowGaps=1;marginLeft=33;marginRight=9;marginTop=21;marginBottom=22;textColor=#666666;numDisp=ascend;" vertex="1" parent="Bl_BZ6ZDCui6poIAxsSx-22">
           <mxGeometry width="266" height="663" as="geometry" />
@@ -147,6 +147,12 @@
         <mxCell id="Bl_BZ6ZDCui6poIAxsSx-21" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_3;" vertex="1" parent="Bl_BZ6ZDCui6poIAxsSx-22">
           <mxGeometry x="54.95867768595041" y="259.2180451127819" width="58.256198347107436" height="59.819548872180455" as="geometry" />
         </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-33" value="&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;span style=&quot;caret-color: rgb(25, 25, 25); font-family: &amp;quot;Market Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(25, 25, 25);&quot;&gt;Supermicro CSE-847BE1C-R1&lt;/span&gt;&lt;span style=&quot;caret-color: light-dark(rgb(25, 25, 25), rgb(216, 216, 216));&quot;&gt;&lt;wbr style=&quot;box-sizing: border-box; margin: 0px; padding: 0px; caret-color: rgb(25, 25, 25); font-family: &amp;quot;Market Sans&amp;quot;, Arial, sans-serif; color: rgb(25, 25, 25);&quot;&gt;&lt;/span&gt;&lt;span style=&quot;caret-color: rgb(25, 25, 25); font-family: &amp;quot;Market Sans&amp;quot;, Arial, sans-serif; background-color: rgb(255, 255, 255); color: rgb(25, 25, 25);&quot;&gt;K28LPB 4U 36-Bay&lt;/span&gt;&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bl_BZ6ZDCui6poIAxsSx-22">
+          <mxGeometry x="278" y="564.25" width="324" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-34" value="&lt;h1 style=&quot;text-align: start; box-sizing: border-box; padding: 0px; margin-top: 0px; margin-right: 0px; margin-left: 0px; text-rendering: optimizelegibility; font-weight: 400; caret-color: rgb(15, 17, 17); color: rgb(15, 17, 17); font-family: &amp;quot;Amazon Ember&amp;quot;, Arial, sans-serif; margin-bottom: 0px !important; line-height: 32px !important;&quot; class=&quot;a-size-large a-spacing-none&quot;&gt;&lt;span style=&quot;box-sizing: border-box; text-rendering: optimizelegibility; word-break: break-word; line-height: 32px !important;&quot; class=&quot;a-size-large product-title-word-break&quot; id=&quot;productTitle&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Eaton Tripp Lite Series 2200VA Smart UPS&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="Bl_BZ6ZDCui6poIAxsSx-22">
+          <mxGeometry x="278" y="610.07" width="274" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Bl_BZ6ZDCui6poIAxsSx-23" value="UDM-SE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="235" width="60" height="30" as="geometry" />
         </mxCell>
@@ -155,6 +161,18 @@
         </mxCell>
         <mxCell id="Bl_BZ6ZDCui6poIAxsSx-25" value="&lt;span style=&quot;text-align: start; caret-color: rgb(128, 136, 147); font-family: &amp;quot;UI Sans&amp;quot;, Lato, HelveticaNeue, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255); color: light-dark(rgb(128, 136, 147), rgb(255, 255, 255));&quot;&gt;USW-Pro-24&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="558" y="296" width="102" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-26" value="TerraMaster FS-424 MAX" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="493.13" width="143.81" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-29" value="Dell PowerEdge R440" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="550" width="122" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-31" value="&lt;span style=&quot;text-align: start; white-space: pre-wrap; font-family: Roboto, Arial, sans-serif; font-size: 14px; background-color: rgba(255, 255, 255, 0.1);&quot;&gt;Supermicro SuperServer 6028TR-DTR 2-Node Server&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="580" width="340" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-32" value="&lt;span style=&quot;font-family: Poppins, sans-serif; font-size: 14px; text-align: left; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;Supermicro SuperServer 6028U-TR4T+ 12 Bay LFF&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="610" width="330" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
