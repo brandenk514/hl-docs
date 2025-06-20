@@ -101,7 +101,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Gb6d37-UPHib0LbdX8OH" name="Rack Diagram">
-    <mxGraphModel dx="1452" dy="979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="494" dy="333" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -146,6 +146,15 @@
         </mxCell>
         <mxCell id="Bl_BZ6ZDCui6poIAxsSx-21" value="" style="strokeColor=#666666;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.general.server_3;" vertex="1" parent="Bl_BZ6ZDCui6poIAxsSx-22">
           <mxGeometry x="54.95867768595041" y="259.2180451127819" width="58.256198347107436" height="59.819548872180455" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-23" value="UDM-SE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="235" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-24" value="&lt;span style=&quot;text-align: start; caret-color: rgb(128, 136, 147); font-family: &amp;quot;UI Sans&amp;quot;, Lato, HelveticaNeue, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255); color: light-dark(rgb(128, 136, 147), rgb(255, 255, 255));&quot;&gt;USW-Pro-Aggregation&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="266" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Bl_BZ6ZDCui6poIAxsSx-25" value="&lt;span style=&quot;text-align: start; caret-color: rgb(128, 136, 147); font-family: &amp;quot;UI Sans&amp;quot;, Lato, HelveticaNeue, &amp;quot;Helvetica Neue&amp;quot;, Helvetica, Arial, sans-serif; background-color: rgb(255, 255, 255); color: light-dark(rgb(128, 136, 147), rgb(255, 255, 255));&quot;&gt;USW-Pro-24&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="558" y="296" width="102" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
