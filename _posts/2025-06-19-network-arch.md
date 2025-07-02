@@ -3,7 +3,7 @@ layout: post
 title: "Network Architecture - Planning before executing!"
 date: 2025-06-19
 categories: architecture 
-tags: networking ubitquiti
+tags: networking ubiquiti
 image:
    path: /assets/headers/uac-net-diagram.png
 ---
