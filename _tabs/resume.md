@@ -26,7 +26,7 @@ Experienced Digital Infrastructure and Site Reliability Engineer with over 6 yea
 **Jul 2022 – Present | Portland, Oregon, United States**
 
 - Manage and maintain large-scale production infrastructure, ensuring high availability, performance, and security  
-- Automate provisioning and configuration using Ansible to improve deployment consistency and reduce errors  
+- Automate provisioning and configuration management using CI/CD pipelines with Ansible Automation Platform, improving deployment consistency and reducing errors
 - Lead troubleshooting of complex system issues, collaborating with engineering teams for resolution  
 - Communicate with internal teams and external stakeholders to ensure effective collaboration  
 - Develop and maintain documentation for infrastructure, processes, and troubleshooting procedures  
