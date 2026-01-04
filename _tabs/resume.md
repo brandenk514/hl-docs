@@ -35,7 +35,7 @@ Experienced Virtualization Infrastructure Engineer with 9+ years of experience s
 - Manage and maintain multiple large-scale production virtualization clusters, ensuring high availability, performance, and security
 - Automate provisioning and configuration management using Ansible, improving deployment consistency and reducing manual errors
 - Diagnose problems and implementing solutions collaboratively with engineering teams
-- Architect global distributed systems for both vSphere and RedHat Satellite 
+- Architect global distributed systems for both VMware vSphere and RedHat Satellite 
 - Deploy CD pipelines for configuration management and patching
 - Communicate with internal and external stakeholders to ensure timely resolution of issues and effective collaboration on projects
 - Develop and maintain clear documentation for infrastructure, processes, and troubleshooting procedures.
