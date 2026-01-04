@@ -4,92 +4,91 @@ icon: fas fa-book
 order: 5
 ---
 
-Experienced Digital Infrastructure and Site Reliability Engineer with over 6 years of expertise in managing large-scale infrastructure, optimizing server clusters, and implementing automation for deployment and configuration. Adept at troubleshooting, enhancing system performance, and maintaining high availability in production environments. Strong communicator, team collaborator, and problem solver with a passion for supporting mission-driven projects.
+Experienced Virtualization Infrastructure Engineer with 9+ years of experience supporting and optimizing large-scale infrastructure. Expertise in virtualized environments, automation, and disaster recovery. Proven track record improving system uptime, performance, and security in mission-critical environments. Skilled at mentoring junior engineers and collaborating with cross-functional teams to deliver technical projects in a timely and efficient manner.
 
 [LinkedIn](https://www.linkedin.com/in/branden-kaestner-02a17799)
 
 ## Technologies
 
-- **DevOps**: Ansible, Docker, Nginx, CloudBolt, Git, GitHub, Jira  
-- **Infrastructure Management**: VMware vSphere & vCenter, Linux (Red Hat & Ubuntu), Red Hat Satellite, Ansible Automation Platform  
-- **Backup & Disaster Recovery**: Commvault, Veeam, Proxmox Backup Server  
-- **Storage**: TrueNAS, Pure Storage, Dell, Qumulo  
-- **Networking**: Tailscale, Ubiquiti  
-- **Monitoring & Alerts**: Grafana, InfluxDB, Telegraf, Uptime Kuma  
-- **Programming Languages**: Ansible, Bash  
-- **Collaboration & Methodology**: Agile, Kanban, Waterfall  
-- **Documentation & Knowledge Sharing**: Markdown, Confluence  
+- **Infrastructure & Virtualization:** VMware vSphere 7/8, vSAN, Proxmox, Docker, LXC, KVM
+- **Automation & Scripting:** Ansible, Bash, PowerShell, CloudBolt, Semaphore UI, Github workflows
+- **Systems Administration:** Linux (RHEL, Ubuntu, SUSE), Windows Server, Red Hat Satellite
+- **Storage & Disaster Recovery:** Pure, Dell PowerStore, Dell Isilon, NetApp, Commvault, Veeam, Proxmox Backup & Recovery
+- **Networking:** VLANs, VPN, NAT, Reverse‑proxy (NetScaler and Traefik), Ubiquiti, Tailscale, Cloudflare
+- **Monitoring & Performance:** Grafana, InfluxDB, Telegraf, Logic Monitor, Uptime Kuma, Beszel, Dozzle
+- **Methodologies & Tools:** Agile, Kanban, Jira, Confluence, Git, ServiceNow, Jira Service Manager, Troubleshooting, CI/CD 
+
+## Certification
+
+- NetApp Certified Technology Associate
+- Azure Fundamentals (AZ-900)
+- VMware VCP 6.7
+- CompTIA A+
+- CompTIA Network+ 
 
 ## Experience
 
 ### Senior Linux Infrastructure Engineer | Columbia Sportswear Company  
 **Jul 2022 – Present | Portland, Oregon, United States**
 
-- Manage and maintain large-scale production infrastructure, ensuring high availability, performance, and security  
-- Automate provisioning and configuration management using CI/CD pipelines with Ansible Automation Platform, improving deployment consistency and reducing errors
-- Lead troubleshooting of complex system issues, collaborating with engineering teams for resolution  
-- Communicate with internal teams and external stakeholders to ensure effective collaboration  
-- Develop and maintain documentation for infrastructure, processes, and troubleshooting procedures  
-- Administer Red Hat Enterprise Linux with Ansible Automation Platform and Red Hat Satellite  
-- Maintain patch cadences to meet compliance and security requirements  
-- Develop automated Linux server deployments on VMware vSphere using CloudBolt and Ansible  
-- Manage vSphere and vSAN clusters across multiple global regions  
-- Coordinate projects using Agile methodologies (Sprints & Kanban) in Jira  
-- Analyze business needs and recommend compute and storage solutions  
-- Manage SAN infrastructure including Pure, Isilon, and PowerStore systems via Fibre Channel  
-- Provide on-call support in a fast-paced, production-critical environment  
+- Support over 7000+ employees and infrastructure deployed across the globe
+- Manage and maintain multiple large-scale production virtualization clusters, ensuring high availability, performance, and security
+- Automate provisioning and configuration management using Ansible, improving deployment consistency and reducing manual errors
+- Diagnose problems and implementing solutions collaboratively with engineering teams
+- Architect global distributed systems for both vSphere and RedHat Satellite 
+- Deploy CD pipelines for configuration management and patching
+- Communicate with internal and external stakeholders to ensure timely resolution of issues and effective collaboration on projects
+- Develop and maintain clear documentation for infrastructure, processes, and troubleshooting procedures.
+- Manage Red Hat Enterprise Linux with Ansible Automation Platform and Red Hat Satellite
+- Deploy bare metal Linux systems for High Computer Platforms like SAP HANA 
+- Maintain patch cadences to meet compliance and security requirements
+- Develop automated deployments for Linux servers on VMware vSphere using CloudBolt & Ansible Automation Platform
+- Coordinated projects using agile methodologies in Jira
+- Consult and understand business needs for compute and storage
+- Manage SAN infrastructure like Pure, Isilion, and PowerStore systems using Fibre Channel
+- Provide on-call support and quick resolution of incidents in a fast-paced, production-critical environment
+- Maintain and forecast hardware life cycle and capacity 
+- Design, procure, and deploy corporate virtualization and compute infrastructure
+- Document process and infrastructure using Confluence 
 
 ### System Engineer II | Columbia Sportswear Company  
 **Apr 2022 – Jul 2022 | Portland, Oregon Metropolitan Area**
 
-- Created Ansible playbooks to automate tasks across multiple Linux servers  
-- Administered SSO and SAML integrations via Azure Active Directory  
-- Maintained hardware and projected capacity in a VMware environment  
-- Configured NetScalers for SSL traffic handling and reverse proxy roles  
-- Integrated Linux and Windows servers into Active Directory using Kerberos  
-- Configured and maintained global vSAN instances  
-- Provisioned and optimized virtual machines for SQL and multi-use workloads  
-- Provided on-call support for production-critical systems  
+- Create Ansible playbooks to automate tasks for multiple Linux servers
+- Administer SSO and SAML through Azure Active Directory
+- Maintain hardware and predict future usage in a VMware environment
+- Configure NetScalers to handle SSL traffic as a reverse proxy
+- Troubleshoot integration of Linux and Windows server into an Active Directory Forest using Kerberos
+- Configure and maintain vSphere & vSAN instances distributed across the global
+- Provision and tune virtual machines for database and multi-use workloads
+- Provided on-call support and quick resolution of incidents in a fast-paced, production-critical environment 
 
 ### Information Technology Infrastructure Engineer | Rohde & Schwarz USA Inc.  
-**Jul 2021 – Mar 2022 | Hillsboro, Oregon, USA**
+**July 2017 – Mar 2022 | Hillsboro, Oregon, USA**
 
-- Administered and maintained Windows and Ubuntu Linux servers across multiple U.S. locations  
-- Managed LAN infrastructure with Cisco and Cisco Meraki  
-- Oversaw geographically dispersed multi-site networks and server infrastructure  
-- Collaborated with global teams on IT asset management and infrastructure projects  
-- Maintained DNS zones and DHCP scopes  
-- Managed Active Directory users and groups  
-- Set up and maintained LAMP servers for internal/external web hosting  
-- Installed and maintained a variety of hardware and firmware  
-- Created network and rack diagrams and other technical documentation  
-- Consulted on low-voltage floor plans and data center design  
-- Configured backups and restores using Veeam  
-
-### Desktop Support Specialist II | Rohde & Schwarz USA Inc.  
-**Jul 2019 – Aug 2021 | Hillsboro, Oregon, USA**
-
-- Coordinated global service and software rollouts  
-- Provided Tier 2 and Tier 3 support for 700+ U.S. users and 12,000 global users  
-- Provisioned virtual machines using VMware  
-- Mentored junior IT staff and provided escalation support  
-- Worked with ServiceNow for incident and task tracking  
-- Liaised with international teams for high-priority issue resolution  
-
-### Desktop Support Specialist | Rohde & Schwarz USA Inc.  
-**Oct 2017 – Jun 2019 | Columbia, Maryland, USA**
-
-- Imaged laptops using Windows PE and PXE  
-- Diagnosed and resolved hardware and software issues  
-- Provided end-user and IT technician documentation  
-- Supported user training and beta software rollouts  
-- Administered Active Directory user accounts and managed BlackBerry MDM  
-- Provisioned virtual machines via VMware  
-- Troubleshot Citrix XenApp desktops and virtual machines  
-- Maintained office hardware setups and relocations  
+- Administer and maintain Windows and Ubuntu Linux servers distributed across the US
+- Monitor, control, and manage LAN networking infrastructure with Cisco & Cisco Meraki
+- Manage multi-site networks and server infrastructure that are geographically dispersed across the US
+- Managed backups and restores via Veeam
+- Coordinate with other administrators globally for projects and IT asset management
+- Maintain DNS zones and DHCP scopes
+- Manage groups and users in Active Directory
+- Set up and maintain LAMP (Linux, Apache, MySQL, PHP) servers for internal and external website hosting
+- Install and maintain a variety of hardware and firmware from various manufacturers 
+- Create and maintain network and rack elevation diagrams and documentation
+- Consult on low voltage floor plan and data center design
+- Coordinate with global teams to roll out new services and software
+- Provide upper & mid tier level support for over 700 users across the US and 12,000 users across the global
+- Provision Virtual machines for users in VMware
+- Manage and mentor junior IT staff
+- Familiarity with ServiceNow ticketing system
+- Coordinate with global teams to roll out new services and software
+- Provide mid-tier level support for over 700 users across the US and 12,000 users across the global
+- Provision Virtual machines for users in VMware
+- Handle level 2 & 3 problems and coordinate solutions with global teams
 
 ## Education
 
 ### Goucher College | Towson, Maryland, USA  
 **Bachelor of Arts in Computer Science**  
-*2013 – 2017*
+August 2013 – May 2017
